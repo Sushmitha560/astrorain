@@ -1,0 +1,23 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Model files (large / generated)
+
+model.pkl
+*.pkl
+
+# Data files (optional - ignore if large or generated)
+
+data/*
+!data/.gitkeep
+
+
+# Python packaging
+
+**pypackages**/
+
