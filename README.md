@@ -1,4 +1,4 @@
-# ☽ AstroRain — Rainfall Prediction Using Ancient Astronomy
+# AstroRain — Rainfall Prediction Using Ancient Astronomy
 
 A machine learning system that uses **ancient Indian astronomical calculations** as the sole input features to predict **real observed daily rainfall** across 12 Indian cities.
 
